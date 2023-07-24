@@ -65,16 +65,16 @@ global.ppulsa = '081232813734' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.co/ZiroMD' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882007157628' //Nomor Bot
-global.nomorown = '6281228070013' //Nomor Owner
-global.namebot = 'ZiroBOTz-MD⚡' //Nama Bot
-global.nameown = '༄ᶜZIRO⚡☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6281228070013'
+global.nomorbot = '6289519125022' //Nomor Bot
+global.nomorown = '6281272308541' //Nomor Owner
+global.namebot = 'Violet-MD' //Nama Bot
+global.nameown = '༄Violet☆࿐' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+6281272308541'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281228070013', '❦ ༄ᶜZIRO⚡☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281272308541', '❦ ༄Violet⚡☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
